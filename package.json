@@ -1,8 +1,6 @@
 {
-  "name": "portfolio-app-dynamic",
-  "version": "1.0.0",
-  "description": "A modern, dynamic portfolio application built with React and Sanity CMS",
-  "author": "Your Name",
+  "name": "frontend_react",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@sanity/client": "^6.1.5",
